@@ -1,3 +1,9 @@
 varias lineas
 en el archivo
+<<<<<<< HEAD
 añadiendo lineas diferentes
+=======
+varias lineas añadidas 
+muchas mas 
+>>>>>>> FABRICIA_RODRIGUES_rama
+fila arreglada
